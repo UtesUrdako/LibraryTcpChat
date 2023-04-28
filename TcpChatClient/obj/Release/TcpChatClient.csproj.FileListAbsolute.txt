@@ -1,0 +1,6 @@
+D:\Project\TZ BK Studio\TcpChatClient\TcpChatClient\bin\Release\TcpChatClient.dll
+D:\Project\TZ BK Studio\TcpChatClient\TcpChatClient\bin\Release\TcpChatClient.pdb
+D:\Project\TZ BK Studio\TcpChatClient\TcpChatClient\obj\Release\TcpChatClient.csproj.AssemblyReference.cache
+D:\Project\TZ BK Studio\TcpChatClient\TcpChatClient\obj\Release\TcpChatClient.csproj.CoreCompileInputs.cache
+D:\Project\TZ BK Studio\TcpChatClient\TcpChatClient\obj\Release\TcpChatClient.dll
+D:\Project\TZ BK Studio\TcpChatClient\TcpChatClient\obj\Release\TcpChatClient.pdb
